@@ -1,9 +1,7 @@
 # rsschool-cv
 ![Markdown](https://avatars.githubusercontent.com/u/106422712?s=400&u=e7850df135d5590d1b99f005ee7a6a7f16869401&v=4)
 # __Julia Koverzneva__
----
 ## Junior Frontend Developer
----
 ## Contact info
 ### Phone: +79960825548
 ### E-mail: yukoverzneva@gmail.com
